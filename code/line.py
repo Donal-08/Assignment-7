@@ -11,7 +11,7 @@ plt.axvline(x = 6, color = 'g', label = 'axvline - full height')
 
 plt.savefig('line.png', dpi=300)
 
-# # Coloring the region A = BLUE , B = GREEN , AB = BLUE+GREEN = teal color
+ # Coloring the region A = BLUE , B = GREEN , AB = BLUE+GREEN = dark green color
 # fig, ax = plt.subplots()
 # ax.axvspan(2, 5, alpha=0.5, color='blue')
 # ax.axvspan(3, 6, alpha=0.5, color='green')
